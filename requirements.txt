@@ -1,0 +1,10 @@
+Flask
+pdfminer.six
+pandas
+sentence-transformers
+numpy
+openpyxl
+https://huggingface.co/Priyanka-Balivada/en_Resume_Matching_Keywords/resolve/main/en_Resume_Matching_Keywords-any-py3-none-any.whl
+
+git lfs install
+git clone https://huggingface.co/spaces/Mayank-02/Matching-job-descriptions-and-resumes
